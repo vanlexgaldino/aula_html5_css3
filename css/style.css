@@ -1,0 +1,52 @@
+body {
+    background:rgb(187, 238, 182);
+    margin-right: 250px;
+    margin-left: 200px;    
+    }
+
+
+h1{
+    font-family: fantasy;
+    color: red;
+    }    
+
+
+h2 {
+    font-family: fantasy;
+    padding: 10px 10px 10px 0;
+    border-color:1px rgb(83, 143, 202) solid;
+    }    
+
+p {
+    font-size: 18px;
+    }
+
+
+img {
+    
+    padding: 3px 3px 3px 3px;
+    border: 1px solid  blue;
+    margin-bottom: 20px;
+}
+
+
+.clear{
+    clear: both;
+}
+
+.img_padrao {
+width: 300px;
+margin: 10px;
+}
+
+.logo {
+    width: 30px;
+}
+
+
+footer {
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+    
