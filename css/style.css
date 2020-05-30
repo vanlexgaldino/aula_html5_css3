@@ -1,29 +1,30 @@
 body {
-    background:rgb(187, 238, 182);
+    background:rgb(165, 93, 153);
     margin-right: 250px;
-    margin-left: 200px;    
+    margin-left: 200px;  
+    color: #fff  
     }
 
 
 h1{
     font-family: fantasy;
-    color: red;
+    color: rgb(63, 11, 59);
     }    
 
 
 h2 {
     font-family: fantasy;
-    padding: 10px 10px 10px 0;
+    padding: 10px;
     border-color:1px rgb(83, 143, 202) solid;
     }    
 
 p {
     font-size: 18px;
+    color:  rgb(63, 11, 59);;
     }
 
 
 img {
-    
     padding: 3px 3px 3px 3px;
     border: 1px solid  blue;
     margin-bottom: 20px;
